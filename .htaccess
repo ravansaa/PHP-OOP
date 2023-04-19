@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+ RewriteEngine On
+ RewriteBase /lab5_php_oop/
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteRule ^home/?$ home.php [L]
+ RewriteRule ^tambah/?$ tambah.php [L]
+ RewriteRule ^mobil/?$ mobil.php [L]
+</IfModule>
