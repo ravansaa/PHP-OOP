@@ -10,6 +10,8 @@ This project is an assignment from my class
 ### Latihan
 ## Membuat Routing
 ### Routing digunakan untuk mempermudah akses halaman web agar SEO Friendly
+### Database
+![Gambar](img/db.png)
 ### Menggunakan .htaccess
 ```
 <IfModule mod_rewrite.c>
