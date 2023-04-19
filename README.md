@@ -23,10 +23,10 @@ This project is an assignment from my class
 
 ```
 ### Hasil routing
-![Gambar](img/1.png)
-![Gambar](img/2.png)
+![Gambar](img/s1.png)
+![Gambar](img/s2.png)
 ### Tugas Mobil
-![Gambar](img/3.png)
+![Gambar](img/s3.png)
 ### Test Penginputan data
-![Gambar](img/4.png)
-![Gambar](img/5.png)
+![Gambar](img/s4.png)
+![Gambar](img/s5.png)
